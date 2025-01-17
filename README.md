@@ -26,7 +26,7 @@ An interactive, responsive calculator built with HTML, CSS, and JavaScript. This
 3. Open the `index.html` file in your browser.
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](ss.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, please fork the repository and submit a pull request.
